@@ -9,6 +9,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="96d3917b5656650a" />
         <title>Flagman Casino — официальный сайт: играть онлайн, рабочее зеркало Флагман Казино</title>
         <meta
           name="description"
